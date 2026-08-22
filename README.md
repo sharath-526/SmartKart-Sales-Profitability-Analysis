@@ -53,7 +53,7 @@ It includes:
 - Shipping performance
 - Interactive slicers for filtering the dashboard
 
-![SmartKart Sales & Profitability Dashboard](dashboard.png)
+![SmartKart Sales & Profitability Dashboard](Dashboard (Smartkart).png)
 
 ## Key Findings
 
